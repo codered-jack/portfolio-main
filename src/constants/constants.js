@@ -31,8 +31,8 @@ export const projects = [
     description: "Build as a part of upcoming 5 days React challange. Currently in progress...",
     image: '/images/airbnb.gif',
     tags: ['Next', 'Tailwind', 'Mapbox'],
-    source: 'https://github.com/codered-jack',
-    visit: 'https://github.com/codered-jack',
+    source: 'https://github.com/codered-jack/airbnb-clone',
+    visit: 'https://airbnb-clone-omega.vercel.app/',
     id: 3,
   },
   {
