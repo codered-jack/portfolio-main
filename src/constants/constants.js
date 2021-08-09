@@ -22,8 +22,8 @@ export const projects = [
     description: "An E-commerce application built with react, node and GraphQL. Currently in progress... ",
       image: '/images/bigbasket.gif',
       tags: ['React','Node','GraphQL'],
-    source: 'https://github.com/codered-jack',
-    visit: 'https://github.com/codered-jack',
+    source: 'https://sabka-bazaar.vercel.app/',
+    visit: 'https://sabka-bazaar.vercel.app/',
     id: 2,
   },
   {
@@ -49,5 +49,5 @@ export const projects = [
 export const TimeLineData = [
   { year: 2019, text: 'Worked as an Android and Backend developer', },
   { year: 2020, text: 'Worked as a FullStack developer', },
-  { year: 2021, text: 'Designing my own Product .' },
+  { year: 2021, text: 'Working as AL2 and designing my own Product .' },
 ];
