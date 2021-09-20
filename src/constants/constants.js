@@ -46,7 +46,17 @@ export const projects = [
     tags: ["Next", "Jest/RTL", "Apollo Client", "Keystone.js"],
     source: "https://github.com/codered-jack/sickfrontend",
     visit: "https://github.com/codered-jack/sickbackend",
-    id: 3,
+    id: 4,
+  },
+  {
+    title: "Uber Eats",
+    description:
+      "User can pick their favourite restaurant,order foods from different categories and look into ordered items.Build as a part of Qazi Challange.",
+    image: "/images/ubereats.gif",
+    tags: ["React Native", "Redux", "Navigation"],
+    source: "https://github.com/codered-jack/uber-eats",
+    visit: "https://github.com/codered-jack/uber-eats",
+    id: 5,
   },
 ];
 
