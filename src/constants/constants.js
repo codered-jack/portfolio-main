@@ -58,10 +58,20 @@ export const projects = [
     visit: "https://github.com/codered-jack/uber-eats",
     id: 5,
   },
+  {
+    title: "Instagram 2.0",
+    description:
+      "An instagram clone where user can upload posts and like and comment on the posts shared by others.",
+    image: "/images/insta.gif",
+    tags: ["Next JS", "Recoil", "Firebase", "Tailwind"],
+    source: "https://instagram-clone-codered-jack.vercel.app/",
+    visit: "https://instagram-clone-codered-jack.vercel.app/",
+    id: 6,
+  },
 ];
 
 export const TimeLineData = [
   { year: 2019, text: "Worked as an Android and Backend developer" },
   { year: 2020, text: "Worked as a FullStack developer" },
-  { year: 2021, text: "Working as AL2 and designing my own Product ." },
+  { year: 2021, text: "Working as AL2 and designing Products." },
 ];

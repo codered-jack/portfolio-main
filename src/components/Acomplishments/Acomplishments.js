@@ -8,9 +8,9 @@ import {
 import { Box, Boxes, BoxNum, BoxText } from "./AcomplishmentsStyles";
 
 const data = [
-  { number: 65, text: "Github Projects" },
-  { number: 1700, text: "LinkedIn Connections" },
-  { number: 150, text: "Leetcode Problems Solved" },
+  { number: 70, text: "Github Projects" },
+  { number: 1900, text: "LinkedIn Connections" },
+  { number: 220, text: "Leetcode Problems Solved" },
   { number: 1, text: "Star Performer Award" },
 ];
 
