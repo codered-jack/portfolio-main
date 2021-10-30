@@ -68,6 +68,16 @@ export const projects = [
     visit: "https://instagram-clone-codered-jack.vercel.app/",
     id: 6,
   },
+  {
+    title: "Crypto Verse",
+    description:
+      "An app for frequent updates about the crypto world . User can get latest crypto stats,search for crypto currency information and news , view latest change in market. Build as a part of JavaScript Mastery Course.",
+    image: "/images/crypto.gif",
+    tags: ["React JS", "Redux Toolkit", "Ant Design", "Chart JS"],
+    source: "https://github.com/codered-jack/cryptoverse",
+    visit: "https://condescending-lamport-1c2c08.netlify.app/",
+    id: 7,
+  },
 ];
 
 export const TimeLineData = [
