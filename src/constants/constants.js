@@ -41,7 +41,7 @@ export const projects = [
   {
     title: "SickFits",
     description:
-      " Users can search, sell, add to cart and checkout their favourite items.The application has six main models — Users, Items, Orders, CartItems, OrderItems, and Roles — all of which are relational and showcase the power of relational GraphQL Queries. Working on Testing...",
+      " Users can search, sell, add to cart and checkout their favourite items.The application has six main models — Users, Items, Orders, CartItems, OrderItems, and Roles — all of which are relational and showcase the power of relational GraphQL Queries. Tested with Jest and React Testing Library",
     image: "/images/sickfits.gif",
     tags: ["Next", "Jest/RTL", "Apollo Client", "Keystone.js"],
     source: "https://github.com/codered-jack/sickfrontend",
