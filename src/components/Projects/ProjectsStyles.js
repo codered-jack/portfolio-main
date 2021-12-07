@@ -22,8 +22,9 @@ export const GridContainer = styled.section`
   }
 `;
 export const BlogCard = styled.div`
+  display: flex;
+  flex-direction: column;
   border-radius: 10px;
-  min-height: 800px;
   box-shadow: 20px 20px 50px rgba(0, 0, 0, 0.5);
   text-align: center;
   width: 400px;
@@ -66,6 +67,7 @@ export const Intro = styled.div`
 `;
 
 export const CardInfo = styled.p`
+  flex: 1;
   width: 100%;
   padding: 0 50px;
   color: #e4e6e7;
@@ -88,6 +90,7 @@ export const UtilityList = styled.ul`
 export const ExternalLinks = styled.a`
   color: #d4c0c0;
   font-size: 1.6rem;
+  width: 40%;
   padding: 0.6rem 1.8rem;
   background: #303d6b;
   border-radius: 20px;

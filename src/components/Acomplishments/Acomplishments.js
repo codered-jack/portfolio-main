@@ -11,7 +11,7 @@ const data = [
   { number: 80, text: "Github Projects" },
   { number: 2000, text: "LinkedIn Connections" },
   { number: 275, text: "Leetcode Problems Solved" },
-  { number: 1, text: "Star Performer Award" },
+  { number: 2, text: "Honours and Awards" },
 ];
 
 const Acomplishments = () => (
