@@ -75,8 +75,8 @@ const Timeline = () => {
         frontend technologies which paved the way for my frontend career . I got
         an challanging oppurtunity to work on frontend of customer and admin
         module of a web app . I also have experience in building API's with Node
-        JS.Currently I am working on an E-commerce PWA with Next JS and Chakra
-        UI.
+        JS.Currently I am working on an E-commerce PWA with Next JS, Jotai and
+        Chakra UI.
       </SectionText>
       <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
         <>
