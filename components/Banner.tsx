@@ -52,8 +52,6 @@ export default function Banner() {
                 <a
                   className='flex justify-between items-center group text-2xl tracking-wider w-48 py-8 px-[2px] text-white font-lora font-medium hover:animate-rubber'
                   target='_blank'
-                  noreferrer
-                  noopener
                 >
                   Let’s Connect{' '}
                   <BiRightArrowCircle className='text-white font-lighter w-8 h-8 transform group-hover:translate-x-2 group-hover:scale-125 transition transition-transform duration-150 ease-out' />
