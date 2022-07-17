@@ -38,14 +38,14 @@ function Technology() {
           </div>
           <div className="md:absolute left-72 -top-36 z-20">
             <Image
-              src="/images/deliveroo/estimate.png"
+              src="/images/deliveroo/order.png"
               height={480}
               width={240}
               objectFit="cover"
               className="rounded-md"
             />
           </div>
-          <div className="md:absolute right-10 top-[580px] z-10">
+          <div className="md:absolute right-4 top-[520px] z-10">
             <Image
               src="/images/deliveroo/waiting.png"
               height={480}
@@ -65,7 +65,7 @@ function Technology() {
           </div>
           <div className="md:absolute left-16 top-[460px] z-10">
             <Image
-              src="/images/deliveroo/order.png"
+              src="/images/deliveroo/estimate.png"
               height={480}
               width={240}
               objectFit="cover"
